@@ -1,20 +1,29 @@
-# Hi, I'm cl3t4p! 👋
+# Hi, I'm cl3t4p 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for learning and creating.
+Artificial Intelligence Systems master's student.
 
-## 🌟 Technologies & Tools
+### 🔭 Currently working on
 
-- **Languages:** Python, Java, C++, Rust
-- **Frameworks:** Spring Boot, Flask, OpenGL
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code
+- **[tt_detector](https://github.com/cl3t4p/tt_detector)** — table tennis spin direction detection from audio
+- **[sat_hub](https://github.com/cl3t4p/sat_hub)** — platform for downloading, processing, and visualizing satellite imagery data
+- SpMV CUDA benchmarks & parallel computing experiments
 
+### 🛠 Tech stack
 
-## 🌱 Currently Learning
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-- Machine learning and AI with TensorFlow and PyTorch
+### 📌 Featured projects
 
+| | |
+|---|---|
+| [**tt_detector**](https://github.com/cl3t4p/tt_detector) | Detects table tennis ball spin direction from audio signals. |
+| [**sat_hub**](https://github.com/cl3t4p/sat_hub) | Download, process, and visualize satellite imagery data. |
 
-## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cl3t4p&layout=compact&theme=radical)
+### 📊 GitHub stats
 
+![cl3t4p's stats](https://github-readme-stats.vercel.app/api?username=cl3t4p&show_icons=true&theme=default&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cl3t4p&layout=compact&theme=default&hide_border=true)
