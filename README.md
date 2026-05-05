@@ -17,8 +17,3 @@ Artificial Intelligence Systems master's student.
 | [**tt_detector**](https://github.com/cl3t4p/tt_detector) | Detects table tennis ball spin direction from audio signals. |
 | [**sat_hub**](https://github.com/cl3t4p/sat_hub) | Download, process, and visualize satellite imagery data. |
 | [**spmv_cuda**](https://github.com/cl3t4p/spmv_cuda) | Analyzes sparse matrix-vector multiplication methods on CUDA. |
-
-### 📊 GitHub stats
-
-![cl3t4p's stats](https://github-readme-stats.vercel.app/api?username=cl3t4p&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cl3t4p&layout=compact&theme=default&hide_border=true)
